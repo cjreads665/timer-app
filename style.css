@@ -55,3 +55,9 @@ main{
     width: 30%;
     border-radius: 20%;
 }
+
+@media (min-width:840px){
+    body{
+        background-size: 100%;
+    }
+}
