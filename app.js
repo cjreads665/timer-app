@@ -26,7 +26,7 @@ function time() {
 }
 
 function startStop() {
-  interval = setInterval(time, 500);
+  interval = setInterval(time, 1000);
   stats = "started";
 }
 function pauseStop() {
